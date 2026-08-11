@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 8 |
+| 10 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (2)
+- [combinatorics](#combinatorics) (1)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (8)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
@@ -29,12 +30,19 @@
 |---|---------|------------|----------|
 | 858A | [k-rounding](https://codeforces.com/contest/858/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/858/A%20-%20k-rounding/solution.cpp) |
 
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1166A | [Silent Classroom](https://codeforces.com/contest/1166/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1166/A%20-%20Silent%20Classroom/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 1166A | [Silent Classroom](https://codeforces.com/contest/1166/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1166/A%20-%20Silent%20Classroom/solution.cpp) |
 
 ### implementation
 
