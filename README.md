@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 9 |
+| 11 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (8)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -29,6 +29,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 858A | [k-rounding](https://codeforces.com/contest/858/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/858/A%20-%20k-rounding/solution.cpp) |
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 
 ### combinatorics
 
@@ -80,6 +81,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 
 ### two pointers
 
