@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 9 |
+| 12 | 9 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [combinatorics](#combinatorics) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (8)
-- [math](#math) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
@@ -63,6 +63,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 858A | [k-rounding](https://codeforces.com/contest/858/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/858/A%20-%20k-rounding/solution.cpp) |
+| 1285A | [Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1285/A%20-%20Mezo%20Playing%20Zoma/solution.cpp) |
 
 ### number theory
 
