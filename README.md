@@ -6,18 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 10 |
+| 15 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (3)
 - [combinatorics](#combinatorics) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (8)
-- [math](#math) (4)
+- [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
@@ -25,12 +26,19 @@
 
 ---
 
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 858A | [k-rounding](https://codeforces.com/contest/858/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/858/A%20-%20k-rounding/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
+| 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
 
 ### combinatorics
 
@@ -74,6 +82,7 @@
 | 1285A | [Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1285/A%20-%20Mezo%20Playing%20Zoma/solution.cpp) |
 | 1369A | [FashionabLee](https://codeforces.com/contest/1369/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1369/A%20-%20FashionabLee/solution.cpp) |
 | 1472A | [Cards for Friends](https://codeforces.com/contest/1472/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1472/A%20-%20Cards%20for%20Friends/solution.cpp) |
+| 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
 
 ### number theory
 
