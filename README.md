@@ -6,22 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 12 |
+| 17 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -41,6 +41,7 @@
 | 858A | [k-rounding](https://codeforces.com/contest/858/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/858/A%20-%20k-rounding/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
 ### combinatorics
 
@@ -75,6 +76,7 @@
 | 709A | [Juicer](https://codeforces.com/contest/709/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/709/A%20-%20Juicer/solution.cpp) |
 | 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
 ### math
 
@@ -105,6 +107,7 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
 ### ternary search
 
