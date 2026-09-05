@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 12 |
+| 19 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (1)
@@ -26,6 +27,12 @@
 - [two pointers](#two-pointers) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Ayushgirigoswami/codeforces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### binary search
 
